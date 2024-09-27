@@ -34,10 +34,10 @@ ul {
     background-color: #04AA6D;
 }
 
-.divBusca {
-    display: flex;
-    align-items: center;
-    padding: 14px 16px;
+#divBusca {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
 }
 
 
