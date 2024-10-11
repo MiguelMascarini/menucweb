@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://cdn.pixabay.com/photo/2016/11/23/15/23/cosmos-1853491_1280.jpg");
+    background-image: url("https://img.freepik.com/fotos-gratis/imagem-de-papel-de-parede-de-fundo-abstrato-preto_53876-110775.jpg?w=1380&t=st=1728671878~exp=1728672478~hmac=ec5403c93a883ea1581664c4f3638cf706b506c7c9f3467067e11b9ed17d5c56");
     background-size: cover;
     background-repeat: repeat;
     
@@ -9,7 +9,7 @@ ul {
     display: flex;
     list-style-type: none;
     overflow: hidden;
-    background-color: #333;
+    background-color: black;
     justify-content: space-around;
     flex-direction: row;
   }
@@ -26,7 +26,7 @@ ul {
   }
   
   li a:hover {
-    background-color: #111;
+    background-color: grey;
   }
 
 .active {
@@ -55,6 +55,12 @@ ul {
   text-align: center;
   font-family: sans-serif;
 }
+
+FONT {
+  font-family: sans-serif;
+}
+
+
 
 
 
