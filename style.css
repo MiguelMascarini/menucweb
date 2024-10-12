@@ -56,6 +56,12 @@ ul {
   font-family: sans-serif;
 }
 
+#imagem {
+    float: left;
+    margin: 0;
+}
+
+
 FONT {
   font-family: sans-serif;
 }
