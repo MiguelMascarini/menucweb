@@ -70,8 +70,11 @@ FONT {
     margin: auto 60px;
     font-family: sans-serif;
     color: white;
-    text-decoration: none;
 }
+
+ a {
+   text-decoration: none;
+ }
 
 
     
