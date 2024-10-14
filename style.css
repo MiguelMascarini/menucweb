@@ -70,6 +70,11 @@ FONT {
     margin: auto 60px;
 }
 
+p a {
+    text-decoration: none;
+}
+    
+
 
 
 
