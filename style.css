@@ -22,7 +22,7 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 25px ;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
   
   li a:hover {
@@ -41,24 +41,24 @@ ul {
 
 #sobreMim {
   color: white;
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #autoBiografia {
   color:white;
   font-size: 20px;
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #nome {
   color:white;
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 
 FONT {
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #form {
@@ -68,7 +68,7 @@ FONT {
 
 #contato {
     margin: auto 60px;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: white;
     text-decoration-color: white;
 }
