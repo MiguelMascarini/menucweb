@@ -9,7 +9,7 @@ ul {
     display: flex;
     list-style-type: none;
     overflow: hidden;
-    background-color: black;
+    background-color: #333;
     justify-content: space-around;
     flex-direction: row;
   }
