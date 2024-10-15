@@ -17,7 +17,7 @@ ul {
   
   li a {
     display: block;
-    color: #c4c2c2;
+    color: #e6e3e3;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -40,18 +40,18 @@ ul {
 }
 
 #sobreMim {
-  color: #c4c2c2;
+  color: #e6e3e3;
   font-family: 'Roboto', sans-serif;
 }
 
 #autoBiografia {
-  color:#c4c2c2;
+  color:#e6e3e3;
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
 
 #nome {
-  color:#c4c2c2;
+  color:#e6e3e3;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
@@ -69,7 +69,7 @@ FONT {
 #contato {
     margin: auto 60px;
     font-family: 'Roboto', sans-serif;
-    color: #c4c2c2;
+    color: #e6e3e3;
     text-decoration-color: white;
 }
 
