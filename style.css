@@ -78,11 +78,11 @@ p a {
 }
 
 #rodape {
-     margin: auto 60px;
+    margin: auto 60px;
     font-family: 'Roboto', sans-serif;
     color: #e6e3e3;
     text-decoration-color: white;
-    padding:100px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
 }
     
 
